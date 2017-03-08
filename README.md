@@ -20,7 +20,7 @@ You can reach me via the following services:
 -   GitHub: [stenowtf](https://github.com/stenowtf)
 -   Twitter: [@stenowtf](https://twitter.com/stenowtf)
 -   Facebook: [stefano.canducci](https://www.facebook.com/stefano.canducci)
--   Xbox Live: [steno](https://www.trueachievements.com/gamer/steno)
+-   Xbox Live: steno
 -   Instagram: [steno](https://www.instagram.com/steno)
 
 ## favorite quotes
