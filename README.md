@@ -19,6 +19,7 @@ You can reach me via the following services:
 -   Email: steno(α)fastmail•fm
 -   GitHub: [stenowtf](https://github.com/stenowtf)
 -   Twitter: [@stenowtf](https://twitter.com/stenowtf)
+-   LinkedIn: [~stefanocanducci](https://www.linkedin.com/in/~stefanocanducci/)
 -   Facebook: [stefano.canducci](https://www.facebook.com/stefano.canducci)
 -   Xbox Live: steno
 -   Instagram: [steno](https://www.instagram.com/steno)
