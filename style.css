@@ -38,6 +38,13 @@ li:last-child {
   padding-bottom: 0;
 }
 
+img {
+  width: 150px;
+  height: 150px;
+  float: left;
+  margin: 0 20px 10px 0;
+}
+
 .pseudo-link,
 a:link, a:active, a:hover, a:visited {
   font-weight: bold;
