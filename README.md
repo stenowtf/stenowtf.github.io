@@ -1,4 +1,4 @@
-# [steno.me](http://steno.me/)
+# [stenowtf.github.io](https://stenowtf.github.io/)
 
 Hello, my name is **Stefano** and I live in **Bologna**, where I work full time as a **front-end developer**.
 
