@@ -1,7 +1,7 @@
 body {
   font-family: 'Fira Mono', 'DejaVu Sans Mono', Menlo, Consolas, 'Liberation Mono', Monaco, 'Lucida Console', monospace;
-  margin: 0.5em;
-  padding: 0.5em;
+  margin: .5em;
+  padding: .5em;
   font-size: 16px;
   min-width: 281px;
 }
@@ -13,12 +13,12 @@ section, h2, p, ul, li {
 
 section {
   margin-top: 1em;
-  padding-right: 0.5em;
+  padding-right: .5em;
   max-width: 40em;
 }
 
 p, ul {
-  margin-top: 0.5em;
+  margin-top: .5em;
 }
 
 p {
@@ -31,7 +31,7 @@ ul {
 
 li {
   list-style-type: square;
-  padding-bottom: 0.3em;
+  padding-bottom: .3em;
 }
 
 li:last-child {
