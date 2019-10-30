@@ -1,32 +1,21 @@
 # [stenowtf.github.io](https://stenowtf.github.io/)
 
-Hello, my name is **Stefano** and I live in **Bologna**, where I work full time as a **front-end developer**.
+## Hello,
 
-My day-to-day work activities consist of taking care of and improving a pretty cool e-commerce platform written in C# and **JavaScript**.
+My name is Stefano and I live near Bologna, where I work full time as a Software Developer.
 
-In my free time, I have recently started studying the **Erlang** language.
+My day-to-day work activities consist of building and taking care of e-commerce related tools written in JavaScript.
 
-Among other things, I am passionate about:
+In my free time, I usually study functional programming.
 
-- the Open Web,
-- learning things,
-- and consuming media.
-
-## contacts
+Among other things, I am passionate about: the Open Web, learning things, and consuming media.
 
 You can reach me via the following services:
 
-- Email: steno(α)fastmail•fm
-- Keybase: [steno](https://keybase.io/steno)
 - GitHub: [stenowtf](https://github.com/stenowtf)
 - Twitter: [@stenowtf](https://twitter.com/stenowtf)
-- Pinboard: [steno](https://pinboard.in/u:steno)
-- LinkedIn: [~stefanocanducci](https://www.linkedin.com/in/~stefanocanducci/)
-- Facebook: [stefano.canducci](https://www.facebook.com/stefano.canducci)
-- Xbox Live: [steno](http://live.xbox.com/Profile?Gamertag=steno)
-- Instagram: [steno](https://www.instagram.com/steno)
 
-## favorite quotes
+---
 
 > “When you don't create things, you become defined by your tastes rather than ability. Your tastes only narrow and exclude people. So _create_.” —[why the lucky stiff](https://en.wikipedia.org/wiki/Why_the_lucky_stiff)
 
