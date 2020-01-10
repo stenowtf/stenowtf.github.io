@@ -18,5 +18,3 @@ You can reach me via the following services:
 ---
 
 > “When you don't create things, you become defined by your tastes rather than ability. Your tastes only narrow and exclude people. So _create_.” —[why the lucky stiff](https://en.wikipedia.org/wiki/Why_the_lucky_stiff)
->
-> “A positive attitude may not solve all your problems, but it will annoy enough people to make it worth the effort.” —Herm Albright
